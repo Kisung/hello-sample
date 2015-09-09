@@ -1,5 +1,8 @@
 //source comment add from local repository
 //2015.09.09
+//원격저장소를 통한 변경점  추가
+//modified by remote
+//conflict resolved
 hello hello by yun
 add hot-fix 01
 append source by master
